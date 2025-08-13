@@ -1,4 +1,4 @@
-import auth_Image from './login.png';
+import auth_Image from './task-login.jpg';
 
 export {
   auth_Image,
